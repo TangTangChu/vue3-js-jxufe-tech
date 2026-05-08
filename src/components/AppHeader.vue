@@ -74,7 +74,7 @@ const closeMenu = () => {
             <li><RouterLink to="/details" @click="closeMenu">关于协会</RouterLink></li>
           </ul>
         </li>
-        <li><a href="#news-hero" @click="closeMenu">最新动态</a></li>
+        <li><RouterLink to="/#news-hero" @click="closeMenu">最新动态</RouterLink></li>
         <li><a href="/members" @click="closeMenu">加入我们</a></li>
       </ul>
     </nav>
