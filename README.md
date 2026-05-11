@@ -2,6 +2,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MIU-MA/jxufe-tech-web)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MIU-MA/jxufe-tech-web?style=flat-square)
 
+>[!NOTE]
+>
 >## 项目运行
 >1. 克隆项目：`git clone https://github.com/MIU-MA/jxufe-tech-web.git`
 >2. 安装依赖：`npm install`
